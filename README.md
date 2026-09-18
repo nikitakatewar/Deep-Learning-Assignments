@@ -28,6 +28,15 @@ This repository contains the practical implementations performed as part of the 
 - Analysis of different numbers of epochs
 - Comparison of model performance
 
+### Assignment 4 – LSTM Time-Series Forecasting
+
+- Implementation of LSTM for time-series forecasting
+- Stock price forecasting
+- Data normalization using Min-Max Scaling
+- Creation of 60-day time sequences
+- Training for 20 epochs
+- Evaluation using MAE and RMSE
+
 ### Assignment 6 – Convolutional Neural Network (CNN)
 
 - Implementation of CNN for image classification

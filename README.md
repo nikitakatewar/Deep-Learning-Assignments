@@ -37,6 +37,14 @@ This repository contains the practical implementations performed as part of the 
 - Training for 20 epochs
 - Evaluation using MAE and RMSE
 
+### Assignment 5 – RNN, LSTM and GRU
+
+- Implementation of RNN, LSTM, and GRU models for sequence classification
+- IMDB movie review sentiment classification
+- Training and testing of all three models
+- Evaluation using accuracy, precision, recall, and F1-score
+- Comparison of model performance
+
 ### Assignment 6 – Convolutional Neural Network (CNN)
 
 - Implementation of CNN for image classification

@@ -62,12 +62,12 @@ The classes are:
 
 Both MLP models achieved the following performance on the test dataset:
 
-| Metric     | MLP Model 1 | MLP Model 2 |
-
-| Accuracy   | 1.00        | 1.00 |
-| Precision  | 1.00        | 1.00 |
-| Recall     | 1.00        | 1.00 |
-| F1-Score   | 1.00        | 1.00 |
+| Metric    | MLP Model 1 | MLP Model 2 |
+| --------- | ----------: | ----------: |
+| Accuracy  |        1.00 |        1.00 |
+| Precision |        1.00 |        1.00 |
+| Recall    |        1.00 |        1.00 |
+| F1-Score  |        1.00 |        1.00 |
 
 The confusion matrix and training loss curve were also generated successfully.
 

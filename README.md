@@ -61,6 +61,16 @@ This repository contains the practical implementations performed as part of the 
 - Transfer learning using pre-trained ResNet50
 - Comparison of model performance
 
+### Assignment 8 – Pre-trained BERT for Sentiment Analysis
+
+- Implementation of a pre-trained BERT model for sentiment analysis
+- Binary sentiment classification using a sample dataset
+- Text tokenization using the BERT tokenizer
+- Use of pre-trained `bert-base-uncased` model
+- Training using `BertForSequenceClassification`
+- Evaluation using accuracy, precision, recall, F1-score, and confusion matrix
+- Prediction of sentiment for a new sentence
+
 ## Technologies Used
 
 - Python

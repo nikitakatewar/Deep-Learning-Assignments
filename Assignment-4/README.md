@@ -45,8 +45,8 @@ The **Close Price** is used for forecasting.
 
 ## Results
 
-| Metric | Value |
-
+| Metric |  Value |
+| ------ | -----: |
 | MAE    | 3.0614 |
 | RMSE   | 3.4350 |
 
